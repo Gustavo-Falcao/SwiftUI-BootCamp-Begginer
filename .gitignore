@@ -1,0 +1,15 @@
+# Xcode user data & state
+xcuserdata/
+*.xcuserstate
+project.xcworkspace/xcuserdata/
+
+# Build artifacts & caches
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# macOS
+.DS_Store
+
